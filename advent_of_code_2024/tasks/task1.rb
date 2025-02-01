@@ -39,5 +39,5 @@ class Task1
 end
 
 task = Task1.new
-result = task.similarity_and_distance('./advent_of_code/test_data/test_data1.csv')
+result = task.similarity_and_distance('./advent_of_code_2024/test_data/test_data1.csv')
 puts "Result: #{result}"
